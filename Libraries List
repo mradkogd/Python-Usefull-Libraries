@@ -1,0 +1,25 @@
+NumPy: A library for working with arrays and numerical operations.
+Pandas: A library for working with data in a tabular format, similar to spreadsheet software.
+Matplotlib: A library for creating plots and charts.
+Seaborn: A library for creating beautiful and informative statistical graphics.
+Scikit-learn: A library for machine learning and data analysis.
+TensorFlow: A library for deep learning and machine learning.
+Keras: A high-level API for deep learning that runs on top of TensorFlow.
+PyTorch: A library for deep learning and machine learning.
+OpenCV: A library for computer vision and image processing.
+NLTK: A library for natural language processing.
+Gensim: A library for topic modeling and document similarity analysis.
+Pygame: A library for creating games and interactive multimedia applications.
+PyQt: A library for creating desktop applications with a graphical user interface.
+Flask: A lightweight web framework for building web applications.
+Django: A high-level web framework for building web applications.
+requests: A library for sending HTTP requests.
+BeautifulSoup: A library for parsing and navigating HTML and XML documents.
+Selenium: A library for automating web browsers and testing web applications.
+Scrapy: A library for scraping websites and extracting data.
+Pytest: A library for writing and running tests.
+unittest: A library for writing and running tests that is included in the Python standard library.
+pytz: A library for working with time zones.
+datetime: A module in the Python standard library for working with dates and times.
+json: A module in the Python standard library for working with JSON data.
+os: A module in the Python standard library for working with the operating system.
